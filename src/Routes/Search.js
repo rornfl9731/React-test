@@ -1,0 +1,1 @@
+export default () => "조회/변경";
